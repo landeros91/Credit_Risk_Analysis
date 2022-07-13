@@ -12,7 +12,7 @@ The purpose of the Credit Risk Analysis is to use/create supervised machine lear
 
 ### SMOTEENN
 
-![](https://github.com/landeros91/Credit_Risk_Analysis/blob/main/images/combination%20sampling.png
+![](https://github.com/landeros91/Credit_Risk_Analysis/blob/main/images/combination%20sampling.png)
 
 ### Oversampling Analysis
 
