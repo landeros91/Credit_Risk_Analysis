@@ -21,3 +21,9 @@ The purpose of the Credit Risk Analysis is to use/create supervised machine lear
 ### Undersampling Analysis
 
 ![](https://github.com/landeros91/Credit_Risk_Analysis/blob/main/images/undersampling.png)
+
+
+## Summary
+
+After looking at the statistics, undersampling analysis has the weakest accuaracy score coming in at .52781. 
+The highest accuracy report is SMOTENN analysis coming in at accuracy score of 0.6806.
